@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Steven Walter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To use JavaScript to make the menus on the HTML page open and display the ingredients and instructions.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://slw16c.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. .fadeIn() method is used to fade in a hidden element.
+2. .animate() allows you to create custom animations
+3. $("h3").next().clone().appendTo(“article”) in the DOM allows the creation of clones on the HTML page.
 
